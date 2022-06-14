@@ -2,7 +2,7 @@
 
 #### I'm Jiemi, an aspiring software engineer who's passionate about code for social good 👩‍💻
 - 🤖 I love tinkering with hardware stuff!
-- 💻 Currently learning frontend programming!
+- 💻 Currently learning frontend programming 
 - 🍰 In my free time, I bake & read 
 - 📫 How to reach me: 
 <div id="badges">
